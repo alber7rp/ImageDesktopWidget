@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageDesktopWidget</string>
+    <string name="title_activity_main">Seleccionar Imagen</string>
+</resources>
