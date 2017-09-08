@@ -1,6 +1,8 @@
 # Image Desktop Widget
 
-Widget for Android devices.
+### Widget for Android devices.
+
+v2 -> Base de datos sqlite para guardar las Uri de las imágenes de cada widget, para evitar que tras un reinicio del dispositivo se desconfiguren los widgets.
 
 
 ![ScreenShot](./screenshot.png)
